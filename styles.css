@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(sky-star.jpg);
+    max-width: 50vw;    
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.conteiner {
+    border-bottom: 2px solid white;
+
+}
+
+div{
+    margin: 0;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #000c;
+    color: aliceblue;
+    font-weight: 700;
+    margin: 0;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 40px;    
+    text-shadow: 0 0 10px white;
+
+    transition-duration: 600ms;
+
+    background-color: transparent;
+}
+
+nav {
+    margin: 0;
+    background-color: #000c;
+    border-top: 4px solid ;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+a {
+    color: aliceblue;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    text-shadow: 0 0 10px white;
+    transition-duration: 500ms;
+}
+
+.title2 {
+    margin: 0;
+    padding: 22px;
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 0 0 10px white;
+    background-image: url(galaxy.jpg) ;
+}
+
+section {    
+    margin: 10px;
+    color: white;
+    text-align: center;
+    border-bottom: 2px solid ;
+
+}
+
+
+p {
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
+
+footer {
+    font-size: 24px;
+    padding: 25px;
+    margin-top: 50px;
+    background-image: url(galaxy.jpg);
+    text-align: center;
+    text-shadow: 0 0 10px white;
+    color: white;
+}
+
+main {
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+a:hover {
+    background-color: blueviolet;
+    border-radius: 10%;
+    color: white;
+    font-size: 22px;
+}
+
+h1:hover{
+    scale: 1.3;
+    color: blueviolet;
+    text-shadow: 0 0 100px blueviolet;
+    font-weight: 700;
+    background-color: transparent;
+    
+}
